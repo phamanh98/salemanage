@@ -1,0 +1,875 @@
+{
+    "product" : [
+        {
+         "TenMH": "TenMH 2",
+         "MoTa": "MoTa 2",
+         "HSD": "HSD 2",
+         "DonGiaBan": 17,
+         "DonGiaNhap": 71,
+         "ChietKhau": "ChietKhau 2",
+         "SoLuongTon": 62,
+         "id": "2"
+        },
+        {
+         "TenMH": "TenMH 3",
+         "MoTa": "MoTa 3",
+         "HSD": "HSD 3",
+         "DonGiaBan": 22,
+         "DonGiaNhap": 94,
+         "ChietKhau": "ChietKhau 3",
+         "SoLuongTon": 33,
+         "id": "3"
+        },
+        {
+         "TenMH": "TenMH 4",
+         "MoTa": "MoTa 4",
+         "HSD": "HSD 4",
+         "DonGiaBan": 71,
+         "DonGiaNhap": 98,
+         "ChietKhau": "ChietKhau 4",
+         "SoLuongTon": 16,
+         "id": "4"
+        },
+        {
+         "TenMH": "TenMH 5",
+         "MoTa": "MoTa 5",
+         "HSD": "HSD 5",
+         "DonGiaBan": 49,
+         "DonGiaNhap": 13,
+         "ChietKhau": "ChietKhau 5",
+         "SoLuongTon": 9,
+         "id": "5"
+        },
+        {
+         "TenMH": "TenMH 6",
+         "MoTa": "MoTa 6",
+         "HSD": "HSD 6",
+         "DonGiaBan": 41,
+         "DonGiaNhap": 52,
+         "ChietKhau": "ChietKhau 6",
+         "SoLuongTon": 81,
+         "id": "6"
+        },
+        {
+         "TenMH": "TenMH 7",
+         "MoTa": "MoTa 7",
+         "HSD": "HSD 7",
+         "DonGiaBan": 3,
+         "DonGiaNhap": 54,
+         "ChietKhau": "ChietKhau 7",
+         "SoLuongTon": 37,
+         "id": "7"
+        },
+        {
+         "TenMH": "TenMH 8",
+         "MoTa": "MoTa 8",
+         "HSD": "HSD 8",
+         "DonGiaBan": 57,
+         "DonGiaNhap": 27,
+         "ChietKhau": "ChietKhau 8",
+         "SoLuongTon": 9,
+         "id": "8"
+        },
+        {
+         "TenMH": "TenMH 9",
+         "MoTa": "MoTa 9",
+         "HSD": "HSD 9",
+         "DonGiaBan": 21,
+         "DonGiaNhap": 45,
+         "ChietKhau": "ChietKhau 9",
+         "SoLuongTon": 7,
+         "id": "9"
+        },
+        {
+         "TenMH": "TenMH 10",
+         "MoTa": "MoTa 10",
+         "HSD": "HSD 10",
+         "DonGiaBan": 32,
+         "DonGiaNhap": 25,
+         "ChietKhau": "ChietKhau 10",
+         "SoLuongTon": 22,
+         "id": "10"
+        },
+        {
+         "TenMH": "TenMH 11",
+         "MoTa": "MoTa 11",
+         "HSD": "HSD 11",
+         "DonGiaBan": 45,
+         "DonGiaNhap": 60,
+         "ChietKhau": "ChietKhau 11",
+         "SoLuongTon": 79,
+         "id": "11"
+        },
+        {
+         "TenMH": "Kem đánh răng PS",
+         "MoTa": "Kem đánh răng PS",
+         "HSD": "2023-04-27T15:26:24.440Z",
+         "DonGiaBan": 90000,
+         "DonGiaNhap": 70000,
+         "ChietKhau": 6.8,
+         "SoLuongTon": 96,
+         "id": "12"
+        }
+       ],
+    "employee" : [
+        {
+         "HoTenNV": "HoTenNV 1",
+         "GioiTinh": "GioiTinh 1",
+         "CCCD": "CCCD 1",
+         "Ngaysinh": 1678935578,
+         "ChucVu": "ChucVu 1",
+         "DiaChi": "DiaChi 1",
+         "SoDT": "SoDT 1",
+         "Email": "Email 1",
+         "id": "1"
+        },
+        {
+         "HoTenNV": "HoTenNV 2",
+         "GioiTinh": "GioiTinh 2",
+         "CCCD": "CCCD 2",
+         "Ngaysinh": 1678935518,
+         "ChucVu": "ChucVu 2",
+         "DiaChi": "DiaChi 2",
+         "SoDT": "SoDT 2",
+         "Email": "Email 2",
+         "id": "2"
+        },
+        {
+         "HoTenNV": "HoTenNV 3",
+         "GioiTinh": "GioiTinh 3",
+         "CCCD": "CCCD 3",
+         "Ngaysinh": 1678935458,
+         "ChucVu": "ChucVu 3",
+         "DiaChi": "DiaChi 3",
+         "SoDT": "SoDT 3",
+         "Email": "Email 3",
+         "id": "3"
+        },
+        {
+         "HoTenNV": "HoTenNV 4",
+         "GioiTinh": "GioiTinh 4",
+         "CCCD": "CCCD 4",
+         "Ngaysinh": 1678935398,
+         "ChucVu": "ChucVu 4",
+         "DiaChi": "DiaChi 4",
+         "SoDT": "SoDT 4",
+         "Email": "Email 4",
+         "id": "4"
+        },
+        {
+         "HoTenNV": "HoTenNV 5",
+         "GioiTinh": "GioiTinh 5",
+         "CCCD": "CCCD 5",
+         "Ngaysinh": 1678935338,
+         "ChucVu": "ChucVu 5",
+         "DiaChi": "DiaChi 5",
+         "SoDT": "SoDT 5",
+         "Email": "Email 5",
+         "id": "5"
+        },
+        {
+         "HoTenNV": "HoTenNV 6",
+         "GioiTinh": "GioiTinh 6",
+         "CCCD": "CCCD 6",
+         "Ngaysinh": 1678935278,
+         "ChucVu": "ChucVu 6",
+         "DiaChi": "DiaChi 6",
+         "SoDT": "SoDT 6",
+         "Email": "Email 6",
+         "id": "6"
+        },
+        {
+         "HoTenNV": "HoTenNV 7",
+         "GioiTinh": "GioiTinh 7",
+         "CCCD": "CCCD 7",
+         "Ngaysinh": 1678935218,
+         "ChucVu": "ChucVu 7",
+         "DiaChi": "DiaChi 7",
+         "SoDT": "SoDT 7",
+         "Email": "Email 7",
+         "id": "7"
+        }
+       ],
+    "bill" : [
+        {
+         "Ngayxuat": 1678936348,
+         "TongTriGia": 52,
+         "PTTT": "PTTT 1",
+         "GhiChu": "GhiChu 1",
+         "id": "1"
+        },
+        {
+         "Ngayxuat": 1678936288,
+         "TongTriGia": 46,
+         "PTTT": "PTTT 2",
+         "GhiChu": "GhiChu 2",
+         "id": "2"
+        },
+        {
+         "Ngayxuat": 1678936228,
+         "TongTriGia": 97,
+         "PTTT": "PTTT 3",
+         "GhiChu": "GhiChu 3",
+         "id": "3"
+        },
+        {
+         "Ngayxuat": 1678936168,
+         "TongTriGia": 63,
+         "PTTT": "PTTT 4",
+         "GhiChu": "GhiChu 4",
+         "id": "4"
+        },
+        {
+         "Ngayxuat": 1678936108,
+         "TongTriGia": 68,
+         "PTTT": "PTTT 5",
+         "GhiChu": "GhiChu 5",
+         "id": "5"
+        },
+        {
+         "Ngayxuat": 1678936048,
+         "TongTriGia": 57,
+         "PTTT": "PTTT 6",
+         "GhiChu": "GhiChu 6",
+         "id": "6"
+        },
+        {
+         "Ngayxuat": 1678935988,
+         "TongTriGia": 3,
+         "PTTT": "PTTT 7",
+         "GhiChu": "GhiChu 7",
+         "id": "7"
+        },
+        {
+         "Ngayxuat": 1678935928,
+         "TongTriGia": 77,
+         "PTTT": "PTTT 8",
+         "GhiChu": "GhiChu 8",
+         "id": "8"
+        },
+        {
+         "Ngayxuat": 1678935868,
+         "TongTriGia": 38,
+         "PTTT": "PTTT 9",
+         "GhiChu": "GhiChu 9",
+         "id": "9"
+        },
+        {
+         "Ngayxuat": 1678935808,
+         "TongTriGia": 35,
+         "PTTT": "PTTT 10",
+         "GhiChu": "GhiChu 10",
+         "id": "10"
+        },
+        {
+         "Ngayxuat": 1678935748,
+         "TongTriGia": 49,
+         "PTTT": "PTTT 11",
+         "GhiChu": "GhiChu 11",
+         "id": "11"
+        },
+        {
+         "Ngayxuat": 1678935688,
+         "TongTriGia": 3,
+         "PTTT": "PTTT 12",
+         "GhiChu": "GhiChu 12",
+         "id": "12"
+        },
+        {
+         "Ngayxuat": 1678935628,
+         "TongTriGia": 12,
+         "PTTT": "PTTT 13",
+         "GhiChu": "GhiChu 13",
+         "id": "13"
+        },
+        {
+         "Ngayxuat": 1678935568,
+         "TongTriGia": 30,
+         "PTTT": "PTTT 14",
+         "GhiChu": "GhiChu 14",
+         "id": "14"
+        },
+        {
+         "Ngayxuat": 1678935508,
+         "TongTriGia": 5,
+         "PTTT": "PTTT 15",
+         "GhiChu": "GhiChu 15",
+         "id": "15"
+        },
+        {
+         "Ngayxuat": 1678935448,
+         "TongTriGia": 91,
+         "PTTT": "PTTT 16",
+         "GhiChu": "GhiChu 16",
+         "id": "16"
+        },
+        {
+         "Ngayxuat": 1678935388,
+         "TongTriGia": 76,
+         "PTTT": "PTTT 17",
+         "GhiChu": "GhiChu 17",
+         "id": "17"
+        },
+        {
+         "Ngayxuat": 1678935328,
+         "TongTriGia": 24,
+         "PTTT": "PTTT 18",
+         "GhiChu": "GhiChu 18",
+         "id": "18"
+        },
+        {
+         "Ngayxuat": 1678935268,
+         "TongTriGia": 98,
+         "PTTT": "PTTT 19",
+         "GhiChu": "GhiChu 19",
+         "id": "19"
+        }
+       ],
+    "order" : [
+        {
+         "NgayDH": 1678936533,
+         "NgayGH": 1678936533,
+         "TrangThai": "TrangThai 1",
+         "id": "1"
+        },
+        {
+         "NgayDH": 1678936473,
+         "NgayGH": 1678936473,
+         "TrangThai": "TrangThai 2",
+         "id": "2"
+        },
+        {
+         "NgayDH": 1678936413,
+         "NgayGH": 1678936413,
+         "TrangThai": "TrangThai 3",
+         "id": "3"
+        },
+        {
+         "NgayDH": 1678936353,
+         "NgayGH": 1678936353,
+         "TrangThai": "TrangThai 4",
+         "id": "4"
+        },
+        {
+         "NgayDH": 1678936293,
+         "NgayGH": 1678936293,
+         "TrangThai": "TrangThai 5",
+         "id": "5"
+        },
+        {
+         "NgayDH": 1678936233,
+         "NgayGH": 1678936233,
+         "TrangThai": "TrangThai 6",
+         "id": "6"
+        },
+        {
+         "NgayDH": 1678936173,
+         "NgayGH": 1678936173,
+         "TrangThai": "TrangThai 7",
+         "id": "7"
+        },
+        {
+         "NgayDH": 1678936113,
+         "NgayGH": 1678936113,
+         "TrangThai": "TrangThai 8",
+         "id": "8"
+        },
+        {
+         "NgayDH": 1678936053,
+         "NgayGH": 1678936053,
+         "TrangThai": "TrangThai 9",
+         "id": "9"
+        }
+       ],
+       "account" : [
+        {
+         "username": "username 1",
+         "TinhTrang": "TinhTrang 1",
+         "id": "1"
+        },
+        {
+         "username": "username 2",
+         "TinhTrang": "TinhTrang 2",
+         "id": "2"
+        },
+        {
+         "username": "username 3",
+         "TinhTrang": "TinhTrang 3",
+         "id": "3"
+        },
+        {
+         "username": "username 4",
+         "TinhTrang": "TinhTrang 4",
+         "id": "4"
+        },
+        {
+         "username": "username 5",
+         "TinhTrang": "TinhTrang 5",
+         "id": "5"
+        },
+        {
+         "username": "username 6",
+         "TinhTrang": "TinhTrang 6",
+         "id": "6"
+        },
+        {
+         "username": "username 7",
+         "TinhTrang": "TinhTrang 7",
+         "id": "7"
+        },
+        {
+         "username": "username 8",
+         "TinhTrang": "TinhTrang 8",
+         "id": "8"
+        },
+        {
+         "username": "username 9",
+         "TinhTrang": "TinhTrang 9",
+         "id": "9"
+        },
+        {
+         "username": "username 10",
+         "TinhTrang": "TinhTrang 10",
+         "id": "10"
+        }
+       ],
+    "promotion" : [
+        {
+         "TenCTKM": "TenCTKM 1",
+         "NgayBD": 1678937891,
+         "NgayKT": 1678937891,
+         "id": "1"
+        },
+        {
+         "TenCTKM": "TenCTKM 2",
+         "NgayBD": 1678937831,
+         "NgayKT": 1678937831,
+         "id": "2"
+        },
+        {
+         "TenCTKM": "TenCTKM 3",
+         "NgayBD": 1678937771,
+         "NgayKT": 1678937771,
+         "id": "3"
+        },
+        {
+         "TenCTKM": "TenCTKM 4",
+         "NgayBD": 1678937711,
+         "NgayKT": 1678937711,
+         "id": "4"
+        },
+        {
+         "TenCTKM": "TenCTKM 5",
+         "NgayBD": 1678937651,
+         "NgayKT": 1678937651,
+         "id": "5"
+        },
+        {
+         "TenCTKM": "TenCTKM 6",
+         "NgayBD": 1678937591,
+         "NgayKT": 1678937591,
+         "id": "6"
+        },
+        {
+         "TenCTKM": "TenCTKM 7",
+         "NgayBD": 1678937531,
+         "NgayKT": 1678937531,
+         "id": "7"
+        },
+        {
+         "TenCTKM": "TenCTKM 8",
+         "NgayBD": 1678937471,
+         "NgayKT": 1678937471,
+         "id": "8"
+        }
+       ],
+    "category" : [
+        {
+         "TenLMH": "TenLMH 1",
+         "id": "1"
+        },
+        {
+         "TenLMH": "TenLMH 2",
+         "id": "2"
+        },
+        {
+         "TenLMH": "TenLMH 3",
+         "id": "3"
+        },
+        {
+         "TenLMH": "TenLMH 4",
+         "id": "4"
+        },
+        {
+         "TenLMH": "TenLMH 5",
+         "id": "5"
+        },
+        {
+         "TenLMH": "TenLMH 6",
+         "id": "6"
+        },
+        {
+         "TenLMH": "TenLMH 7",
+         "id": "7"
+        },
+        {
+         "TenLMH": "TenLMH 8",
+         "id": "8"
+        },
+        {
+         "TenLMH": "TenLMH 9",
+         "id": "9",
+         "TenCTKM": "rrrrrrr",
+         "NgayBD": "2023-04-26T16:23:12.426Z",
+         "NgayKT": "2023-04-28T16:23:15.427Z"
+        }
+       ],
+       "supplier" : [
+        {
+         "TenNCC": "TenNCC 1",
+         "DiaChi": "DiaChi 1",
+         "SoDT": "SoDT 1",
+         "Email": "Email 1",
+         "id": "1"
+        },
+        {
+         "TenNCC": "TenNCC 2",
+         "DiaChi": "DiaChi 2",
+         "SoDT": "SoDT 2",
+         "Email": "Email 2",
+         "id": "2"
+        },
+        {
+         "TenNCC": "TenNCC 3",
+         "DiaChi": "DiaChi 3",
+         "SoDT": "SoDT 3",
+         "Email": "Email 3",
+         "id": "3"
+        },
+        {
+         "TenNCC": "TenNCC 4",
+         "DiaChi": "DiaChi 4",
+         "SoDT": "SoDT 4",
+         "Email": "Email 4",
+         "id": "4"
+        },
+        {
+         "TenNCC": "TenNCC 5",
+         "DiaChi": "DiaChi 5",
+         "SoDT": "SoDT 5",
+         "Email": "Email 5",
+         "id": "5"
+        },
+        {
+         "TenNCC": "TenNCC 6",
+         "DiaChi": "DiaChi 6",
+         "SoDT": "SoDT 6",
+         "Email": "Email 6",
+         "id": "6"
+        },
+        {
+         "TenNCC": "TenNCC 7",
+         "DiaChi": "DiaChi 7",
+         "SoDT": "SoDT 7",
+         "Email": "Email 7",
+         "id": "7"
+        },
+        {
+         "TenNCC": "TenNCC 8",
+         "DiaChi": "DiaChi 8",
+         "SoDT": "SoDT 8",
+         "Email": "Email 8",
+         "id": "8"
+        },
+        {
+         "TenNCC": "TenNCC 9",
+         "DiaChi": "DiaChi 9",
+         "SoDT": "SoDT 9",
+         "Email": "Email 9",
+         "id": "9"
+        },
+        {
+         "TenNCC": "aaaaaa",
+         "DiaChi": "ttttttttt",
+         "SoDT": "5555555555",
+         "Email": "phamquocanh123@gmail.com",
+         "id": "10"
+        }
+       ],
+       "customer" : [
+        {
+         "HoTenKH": "HoTenKH 1",
+         "GioiTinh": "GioiTinh 1",
+         "Ngaysinh": 1678939001,
+         "LoaiThanhVien": "LoaiThanhVien 1",
+         "DiaChi": "DiaChi 1",
+         "Email": "Email 1",
+         "SoDT": "SoDT 1",
+         "id": "1"
+        },
+        {
+         "HoTenKH": "HoTenKH 2",
+         "GioiTinh": "GioiTinh 2",
+         "Ngaysinh": 1678938941,
+         "LoaiThanhVien": "LoaiThanhVien 2",
+         "DiaChi": "DiaChi 2",
+         "Email": "Email 2",
+         "SoDT": "SoDT 2",
+         "id": "2"
+        },
+        {
+         "HoTenKH": "HoTenKH 3",
+         "GioiTinh": "GioiTinh 3",
+         "Ngaysinh": 1678938881,
+         "LoaiThanhVien": "LoaiThanhVien 3",
+         "DiaChi": "DiaChi 3",
+         "Email": "Email 3",
+         "SoDT": "SoDT 3",
+         "id": "3"
+        },
+        {
+         "HoTenKH": "HoTenKH 4",
+         "GioiTinh": "GioiTinh 4",
+         "Ngaysinh": 1678938821,
+         "LoaiThanhVien": "LoaiThanhVien 4",
+         "DiaChi": "DiaChi 4",
+         "Email": "Email 4",
+         "SoDT": "SoDT 4",
+         "id": "4"
+        },
+        {
+         "HoTenKH": "HoTenKH 5",
+         "GioiTinh": "GioiTinh 5",
+         "Ngaysinh": 1678938761,
+         "LoaiThanhVien": "LoaiThanhVien 5",
+         "DiaChi": "DiaChi 5",
+         "Email": "Email 5",
+         "SoDT": "SoDT 5",
+         "id": "5"
+        },
+        {
+         "HoTenKH": "HoTenKH 6",
+         "GioiTinh": "GioiTinh 6",
+         "Ngaysinh": 1678938701,
+         "LoaiThanhVien": "LoaiThanhVien 6",
+         "DiaChi": "DiaChi 6",
+         "Email": "Email 6",
+         "SoDT": "SoDT 6",
+         "id": "6"
+        },
+        {
+         "HoTenKH": "HoTenKH 7",
+         "GioiTinh": "GioiTinh 7",
+         "Ngaysinh": 1678938641,
+         "LoaiThanhVien": "LoaiThanhVien 7",
+         "DiaChi": "DiaChi 7",
+         "Email": "Email 7",
+         "SoDT": "SoDT 7",
+         "id": "7"
+        },
+        {
+         "HoTenKH": "HoTenKH 8",
+         "GioiTinh": "GioiTinh 8",
+         "Ngaysinh": 1678938581,
+         "LoaiThanhVien": "LoaiThanhVien 8",
+         "DiaChi": "DiaChi 8",
+         "Email": "Email 8",
+         "SoDT": "SoDT 8",
+         "id": "8"
+        },
+        {
+         "HoTenKH": "HoTenKH 9",
+         "GioiTinh": "GioiTinh 9",
+         "Ngaysinh": 1678938521,
+         "LoaiThanhVien": "LoaiThanhVien 9",
+         "DiaChi": "DiaChi 9",
+         "Email": "Email 9",
+         "SoDT": "SoDT 9",
+         "id": "9"
+        },
+        {
+         "HoTenKH": "HoTenKH 10",
+         "GioiTinh": "GioiTinh 10",
+         "Ngaysinh": 1678938461,
+         "LoaiThanhVien": "LoaiThanhVien 10",
+         "DiaChi": "DiaChi 10",
+         "Email": "Email 10",
+         "SoDT": "SoDT 10",
+         "id": "10"
+        },
+        {
+         "HoTenKH": "HoTenKH 11",
+         "GioiTinh": "GioiTinh 11",
+         "Ngaysinh": 1678938401,
+         "LoaiThanhVien": "LoaiThanhVien 11",
+         "DiaChi": "DiaChi 11",
+         "Email": "Email 11",
+         "SoDT": "SoDT 11",
+         "id": "11"
+        },
+        {
+         "HoTenKH": "HoTenKH 12",
+         "GioiTinh": "GioiTinh 12",
+         "Ngaysinh": 1678938341,
+         "LoaiThanhVien": "LoaiThanhVien 12",
+         "DiaChi": "DiaChi 12",
+         "Email": "Email 12",
+         "SoDT": "SoDT 12",
+         "id": "12"
+        },
+        {
+         "HoTenKH": "HoTenKH 13",
+         "GioiTinh": "GioiTinh 13",
+         "Ngaysinh": 1678938281,
+         "LoaiThanhVien": "LoaiThanhVien 13",
+         "DiaChi": "DiaChi 13",
+         "Email": "Email 13",
+         "SoDT": "SoDT 13",
+         "id": "13"
+        },
+        {
+         "HoTenKH": "HoTenKH 14",
+         "GioiTinh": "GioiTinh 14",
+         "Ngaysinh": 1678938221,
+         "LoaiThanhVien": "LoaiThanhVien 14",
+         "DiaChi": "DiaChi 14",
+         "Email": "Email 14",
+         "SoDT": "SoDT 14",
+         "id": "14"
+        },
+        {
+         "HoTenKH": "HoTenKH 15",
+         "GioiTinh": "GioiTinh 15",
+         "Ngaysinh": 1678938161,
+         "LoaiThanhVien": "LoaiThanhVien 15",
+         "DiaChi": "DiaChi 15",
+         "Email": "Email 15",
+         "SoDT": "SoDT 15",
+         "id": "15"
+        },
+        {
+         "HoTenKH": "HoTenKH 16",
+         "GioiTinh": "GioiTinh 16",
+         "Ngaysinh": 1678938101,
+         "LoaiThanhVien": "LoaiThanhVien 16",
+         "DiaChi": "DiaChi 16",
+         "Email": "Email 16",
+         "SoDT": "SoDT 16",
+         "id": "16"
+        },
+        {
+         "HoTenKH": "HoTenKH 17",
+         "GioiTinh": "GioiTinh 17",
+         "Ngaysinh": 1678938041,
+         "LoaiThanhVien": "LoaiThanhVien 17",
+         "DiaChi": "DiaChi 17",
+         "Email": "Email 17",
+         "SoDT": "SoDT 17",
+         "id": "17"
+        },
+        {
+         "HoTenKH": "HoTenKH 18",
+         "GioiTinh": "GioiTinh 18",
+         "Ngaysinh": 1678937981,
+         "LoaiThanhVien": "LoaiThanhVien 18",
+         "DiaChi": "DiaChi 18",
+         "Email": "Email 18",
+         "SoDT": "SoDT 18",
+         "id": "18"
+        },
+        {
+         "HoTenKH": "HoTenKH 19",
+         "GioiTinh": "GioiTinh 19",
+         "Ngaysinh": 1678937921,
+         "LoaiThanhVien": "LoaiThanhVien 19",
+         "DiaChi": "DiaChi 19",
+         "Email": "Email 19",
+         "SoDT": "SoDT 19",
+         "id": "19"
+        },
+        {
+         "HoTenKH": "HoTenKH 20",
+         "GioiTinh": "GioiTinh 20",
+         "Ngaysinh": 1678937861,
+         "LoaiThanhVien": "LoaiThanhVien 20",
+         "DiaChi": "DiaChi 20",
+         "Email": "Email 20",
+         "SoDT": "SoDT 20",
+         "id": "20"
+        }
+       ],
+    "receipt" : [
+        {
+         "TenMH": "TenMH 1",
+         "SoLuongNhap": "SoLuongNhap 1",
+         "GiaNhap": "GiaNhap 1",
+         "Ngaynhap": 1678938642,
+         "id": "1"
+        },
+        {
+         "TenMH": "TenMH 2",
+         "SoLuongNhap": "SoLuongNhap 2",
+         "GiaNhap": "GiaNhap 2",
+         "Ngaynhap": 1678938582,
+         "id": "2"
+        },
+        {
+         "TenMH": "TenMH 3",
+         "SoLuongNhap": "SoLuongNhap 3",
+         "GiaNhap": "GiaNhap 3",
+         "Ngaynhap": 1678938522,
+         "id": "3"
+        },
+        {
+         "TenMH": "TenMH 4",
+         "SoLuongNhap": "SoLuongNhap 4",
+         "GiaNhap": "GiaNhap 4",
+         "Ngaynhap": 1678938462,
+         "id": "4"
+        }
+       ],
+    "inventorySheet" : [
+        {
+         "TenMH": "TenMH 1",
+         "TinhTrang": "TinhTrang 1",
+         "SoLuongTon": "SoLuongTon 1",
+         "NgayKiem": 1678938738,
+         "id": "1"
+        },
+        {
+         "TenMH": "TenMH 2",
+         "TinhTrang": "TinhTrang 2",
+         "SoLuongTon": "SoLuongTon 2",
+         "NgayKiem": 1678938678,
+         "id": "2"
+        },
+        {
+         "TenMH": "TenMH 3",
+         "TinhTrang": "TinhTrang 3",
+         "SoLuongTon": "SoLuongTon 3",
+         "NgayKiem": 1678938618,
+         "id": "3"
+        },
+        {
+         "TenMH": "TenMH 4",
+         "TinhTrang": "TinhTrang 4",
+         "SoLuongTon": "SoLuongTon 4",
+         "NgayKiem": 1678938558,
+         "id": "4"
+        },
+        {
+         "TenMH": "TenMH 5",
+         "TinhTrang": "TinhTrang 5",
+         "SoLuongTon": "SoLuongTon 5",
+         "NgayKiem": 1678938498,
+         "id": "5"
+        },
+        {
+         "TenMH": "TenMH 6",
+         "TinhTrang": "TinhTrang 6",
+         "SoLuongTon": "SoLuongTon 6",
+         "NgayKiem": 1678938438,
+         "id": "6"
+        }
+       ]
+}
